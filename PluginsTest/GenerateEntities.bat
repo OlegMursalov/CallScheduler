@@ -1,0 +1,1 @@
+CrmSvcUtil /url:http://crm365/BlagoDev/xrmServices/2011/Organization.svc /out:Entities.cs /namespace:PluginsTest /domain:pcrm /username:administrator /password:Password@Strong1 /ServiceContextName:ServiceContext
